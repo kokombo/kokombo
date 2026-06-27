@@ -12,3 +12,4 @@
 
 When I'm not coding, you'll find me watching skits or mysterios vidoes on YouTube, learning new cool tech tricks, or reading indie hackers' bants on X. 
 
+### Gitlab: www.gitlab.com/kokombo
